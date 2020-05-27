@@ -1,4 +1,6 @@
 # Planeador-didactico
+Este proyecto fue realizado en el curso de Programación II usando Visual Studio con .net
+
 Todo docente debe recurrir a planificar la acción educativa, que permita racionalizar recursos, preparar decisiones
 y llevar a cabo la el procesos de aprendizaje de los estudiantes previsto, con óptimos resultados. De esta forma el
 planeamiento didáctico es la interacción de diferentes elementos entre ellos: contenidos, objetivos, actividades, valores
