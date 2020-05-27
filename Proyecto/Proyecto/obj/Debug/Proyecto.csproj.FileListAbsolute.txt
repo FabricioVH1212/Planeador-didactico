@@ -1,0 +1,65 @@
+E:\C#\Interfaz\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\C#\Interfaz\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\C#\Interfaz\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\C#\Interfaz\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+E:\3 Cuatrimestre\Programación 2\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto programado\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\IronPdf.dll
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\IronPdf.xml
+C:\Users\Public\Downloads\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Public\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.mbPersonalizado.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\IronPdf.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\IronPdf.xml
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.mbPersonalizado.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Debug\Proyecto.pdb

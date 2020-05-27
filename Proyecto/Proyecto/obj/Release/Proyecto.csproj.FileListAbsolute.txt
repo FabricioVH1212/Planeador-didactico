@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\Proyecto.exe.config
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\Proyecto.pdb
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\IronPdf.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\itextsharp.dll
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\IronPdf.xml
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\bin\Release\itextsharp.xml
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.Form1.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.mbPersonalizado.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.Properties.Resources.resources
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.csproj.CopyComplete
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.exe
+C:\Users\Public\Documents\Fabricio Vindas Hernandez\Repositorio\Proyecto\Proyecto\obj\Release\Proyecto.pdb
